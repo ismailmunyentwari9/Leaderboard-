@@ -4,6 +4,7 @@ main {
   padding-left: 10% !important;
   margin-top: 2%;
   padding-bottom: 5%;
+  height: auto;
   border: 3px solid silver;
 }
 

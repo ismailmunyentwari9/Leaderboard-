@@ -7,6 +7,9 @@ module.exports = {
   devServer: {
     static: './dist',
   },
+  experiments: {
+    topLevelAwait: true,
+  },
   plugins: [
     new HtmlWebpackPlugin({
       title: 'Output Management',
