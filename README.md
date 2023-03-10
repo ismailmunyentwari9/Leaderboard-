@@ -20,7 +20,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Awesome Books] <a name="Leaderboard"></a>
+# 📖 [Leaderboard] <a name="Leaderboard"></a>
 
 **[Leaderboard]** This project is a web application that displays a leaderboard of top players and their scores in a game. The application retrieves data from an API and dynamically displays the leaderboard in a user-friendly format on a web page.
 
@@ -127,7 +127,7 @@ If you like this project then don't forget to give a star ⭐ on this repository
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Microverse](https://www.microverse.org/), for the original [design](https://github.com/microverseinc/curriculum-javascript/blob/main/books/m2_plain_js_classes_v1_1.md)
+I would like to thank [Microverse](https://www.microverse.org/), for the original [design](https://github.com/microverseinc/curriculum-javascript/blob/main/leaderboard/sneak_peek.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
