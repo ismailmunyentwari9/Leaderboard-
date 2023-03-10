@@ -28,6 +28,7 @@ const addScore = async (event) => {
 // Add event listener to the form
 const scoreForm = document.getElementById('score-form');
 scoreForm.addEventListener('submit', addScore);
+// refrehing
 
 const refreshButton = document.getElementById('refreher');
 refreshButton.addEventListener('click', () => {

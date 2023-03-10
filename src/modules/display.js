@@ -8,7 +8,7 @@ const getApiData = async () => {
   const holder = document.getElementById('score-list-holder');
 
   const scoreList = data.result.map((item) => `<div class="score-list">
-                    <p>${item.user}: ${item.score}</p>
+                    <p><span>${item.user}</span>: <span>${item.score}</></p>
                 </div>`).join('');
 
   holder.innerHTML = scoreList;
